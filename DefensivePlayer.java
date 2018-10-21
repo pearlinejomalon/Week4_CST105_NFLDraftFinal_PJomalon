@@ -10,7 +10,7 @@ package nfl.draft;
  * File: DefensivePlayer.java
  * Summary: Defensive Player extension of Player class
  * Author: Pearl Jomalon
- * Date: October 14, 2018
+ * Date: October 21, 2018 (revised)
  */
 
 public class DefensivePlayer extends Player {  //Begin DefensivePlayer subclass
