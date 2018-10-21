@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package nfl.draft;
 
 /**
@@ -10,7 +5,7 @@ package nfl.draft;
  * File: OffensivePlayer.java
  * Summary: Offensive Player extension of Player class
  * Author: Pearl Jomalon
- * Date: October 14, 2018
+ * Date: October 21, 2018 (revised)
  */
 
 
