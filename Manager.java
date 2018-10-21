@@ -9,7 +9,7 @@ package nfl.draft;
 *File: Manager.java
 *Summary: Design, implement and test the NFL Manager Player Class
 *Author: Pearl Jomalon
-Date: October 15, 2018
+Date: October 21, 2018 (revised)
 **/
 
 import java.util.ArrayList;
